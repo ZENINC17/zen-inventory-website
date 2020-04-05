@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/about-us/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/contact-us/</loc>
+  </url>
+  
+  <url>
+    <loc>/customers/</loc>
+  </url>
+  
+  <url>
+    <loc>/services/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/careers/</loc>
+  </url>
+  
+  <url>
+    <loc>/zen-bos/</loc>
+  </url>
+  
+  <url>
+    <loc>/zen-erp/</loc>
+  </url>
+  
+  <url>
+    <loc>/zen-flow/</loc>
+  </url>
+  
+  <url>
+    <loc>/zen-inventory/</loc>
+  </url>
+  
+  <url>
+    <loc>/zen-fms/</loc>
+  </url>
+  
+  <url>
+    <loc>/zen-wms/</loc>
+  </url>
+  
+</urlset>

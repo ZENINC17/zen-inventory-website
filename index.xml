@@ -6,6 +6,7 @@
     <description>Recent content on Giải pháp quản trị doanh nghiệp số</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <copyright>© Copyright 2017. All Rights Reserved.</copyright>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,15 +17,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about-us/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Careers</title>
-      <link>/careers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/careers/</guid>
       <description></description>
     </item>
     
@@ -56,12 +48,21 @@
     </item>
     
     <item>
+      <title>Thông tin tuyển dụng</title>
+      <link>/careers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/careers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Zen BOS</title>
       <link>/zen-bos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/zen-bos/</guid>
-      <description>type = &amp;ldquo;product&amp;rdquo; layout = &amp;ldquo;productlayout&amp;rdquo;</description>
+      <description>Giới thiệu chung  ZenBOS - Operating System for Business là hệ thống phần mềm điều hành doanh nghiệp, bao gồm các phân hệ lõi để xử lý và theo dõi các hoạt động diễn ra hàng ngày tại doanh nghiệp.</description>
     </item>
     
     <item>
@@ -70,16 +71,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/zen-erp/</guid>
-      <description>type = &amp;ldquo;product&amp;rdquo; layout = &amp;ldquo;productlayout&amp;rdquo;</description>
+      <description></description>
     </item>
     
     <item>
-      <title>Zen FMS</title>
-      <link>/zen-fms/</link>
+      <title>Zen Flow</title>
+      <link>/zen-flow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/zen-fms/</guid>
-      <description>type = &amp;ldquo;product&amp;rdquo; layout = &amp;ldquo;productlayout&amp;rdquo;</description>
+      <guid>/zen-flow/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -89,6 +90,15 @@
       
       <guid>/zen-inventory/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Zen mFMS</title>
+      <link>/zen-fms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/zen-fms/</guid>
+      <description>Giới thiệu chung  ZEN mFMS là giải pháp phần mềm chuyên sâu cho tài chính vi mô, tài chính tiêu dùng.</description>
     </item>
     
     <item>
