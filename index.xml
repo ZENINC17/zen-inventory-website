@@ -7,26 +7,193 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© Copyright 2017. All Rights Reserved.</copyright>
+    <lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About</title>
-      <link>/about-us/</link>
+      <title>Điều hành online Zen BOS</title>
+      <link>/solutions/dieu-hanh-doanh-nghiep-online-zen-bos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about-us/</guid>
+      <guid>/solutions/dieu-hanh-doanh-nghiep-online-zen-bos/</guid>
+      <description>Giới thiệu chung  ZenBOS - Operating System for Business là hệ thống phần mềm điều hành doanh nghiệp, bao gồm các phân hệ lõi để xử lý và theo dõi các hoạt động diễn ra hàng ngày tại doanh nghiệp.</description>
+    </item>
+    
+    <item>
+      <title>ZEN Inventory OnCloud</title>
+      <link>/solutions/phan-mem-quan-ly-kho-saas-zen-inventory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/solutions/phan-mem-quan-ly-kho-saas-zen-inventory/</guid>
+      <description> &amp;lt;li&amp;gt;10GB Disk Space&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;100GB Monthly Bandwith&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;20 Email Accounts&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;Unlimited Subdomains&amp;lt;/li&amp;gt; Tối đa 3 cửa hàng Tối đa 3 nhà kho Không giới hạn nhân viên Tính năng Bán hàng Tính năng Tồn kho Tính năng Khách hàng  </description>
+    </item>
+    
+    <item>
+      <title>Quản trị doanh nghiệp Zen ERP</title>
+      <link>/solutions/quan-tri-doanh-nghiep-zen-erp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/solutions/quan-tri-doanh-nghiep-zen-erp/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>/contact-us/</link>
+      <title>Quản lý kho Zen WMS</title>
+      <link>/solutions/phan-mem-quan-ly-kho-zen-wms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contact-us/</guid>
+      <guid>/solutions/phan-mem-quan-ly-kho-zen-wms/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Quản lý bán hàng Zen Flow</title>
+      <link>/solutions/quan-ly-ban-hang-zen-flow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/solutions/quan-ly-ban-hang-zen-flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quản lý TCVM - Zen mFMS</title>
+      <link>/solutions/quan-ly-tai-chinh-vi-mo-zen-mfms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/solutions/quan-ly-tai-chinh-vi-mo-zen-mfms/</guid>
+      <description>Giới thiệu chung  ZEN mFMS là giải pháp phần mềm chuyên sâu cho tài chính vi mô, tài chính tiêu dùng.</description>
+    </item>
+    
+    <item>
+      <title>Các công nghệ sản xuất thông minh mới nhất năm 2020</title>
+      <link>/blog/2020-02-c%C3%A1c-c%C3%B4ng-ngh%E1%BB%87-s%E1%BA%A3n-xu%E1%BA%A5t-th%C3%B4ng-minh-m%E1%BB%9Bi-nh%E1%BA%A5t-n%C4%83m-2020/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-02-c%C3%A1c-c%C3%B4ng-ngh%E1%BB%87-s%E1%BA%A3n-xu%E1%BA%A5t-th%C3%B4ng-minh-m%E1%BB%9Bi-nh%E1%BA%A5t-n%C4%83m-2020/</guid>
+      <description>Trong một báo cáo của mình, PwC – đơn vị kiểm toán hàng đầu thế giới, đánh giá rằng, trong năm năm tới đây, 85% các công ty công nghiệp sẽ triển khai các công nghệ 4.</description>
+    </item>
+    
+    <item>
+      <title>6 lợi ích lớn nhất của phần mềm CRM</title>
+      <link>/blog/2020-02-6-l%E1%BB%A3i-%C3%ADch-l%E1%BB%9Bn-nh%E1%BA%A5t-c%E1%BB%A7a-ph%E1%BA%A7n-m%E1%BB%81m-crm/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-02-6-l%E1%BB%A3i-%C3%ADch-l%E1%BB%9Bn-nh%E1%BA%A5t-c%E1%BB%A7a-ph%E1%BA%A7n-m%E1%BB%81m-crm/</guid>
+      <description>Phần mềm CRM được áp dụng tại nhiều doanh nghiệp dịch vụ và thương mại. CRM được chứng minh là là cải thiện khả năng giữ chân khách hàng, lên tới 27%.</description>
+    </item>
+    
+    <item>
+      <title>Vì sao phần mềm kế toán Việt Nam chiếm ưu thế cạnh tranh?</title>
+      <link>/blog/2020-02-v%C3%AC-sao-ph%E1%BA%A7n-m%E1%BB%81m-k%E1%BA%BF-to%C3%A1n-vi%E1%BB%87t-nam-chi%E1%BA%BFm-%C6%B0u-th%E1%BA%BF-c%E1%BA%A1nh-tranh/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-02-v%C3%AC-sao-ph%E1%BA%A7n-m%E1%BB%81m-k%E1%BA%BF-to%C3%A1n-vi%E1%BB%87t-nam-chi%E1%BA%BFm-%C6%B0u-th%E1%BA%BF-c%E1%BA%A1nh-tranh/</guid>
+      <description>Phần mềm kế toán quốc tế tuy phù hợp với quy mô của doanh nghiệp Việt Nam xong giá thành còn quá cao và gặp một số yếu tố bất lợi nên số lượng bán được còn rất hạn chế.</description>
+    </item>
+    
+    <item>
+      <title>Thống kê sản xuất Realtime với phần mềm</title>
+      <link>/blog/2020-01-th%E1%BB%91ng-k%C3%AA-s%E1%BA%A3n-xu%E1%BA%A5t-realtime-v%E1%BB%9Bi-ph%E1%BA%A7n-m%E1%BB%81m/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-01-th%E1%BB%91ng-k%C3%AA-s%E1%BA%A3n-xu%E1%BA%A5t-realtime-v%E1%BB%9Bi-ph%E1%BA%A7n-m%E1%BB%81m/</guid>
+      <description>Thống kê sản xuất là hoạt động quan trọng trong hoạt động kinh doanh sản xuất của doanh nghiệp. Thống kê giúp doanh nghiệp cập nhật được thông tin, tình hình sản xuất để có những điều hướng kịp thời để đảm bảo thời gian hoàn thành kịp tiến độ.</description>
+    </item>
+    
+    <item>
+      <title>Chọn mua phần mềm ERP sao cho hiệu quả?</title>
+      <link>/blog/2020-01-ch%E1%BB%8Dn-mua-ph%E1%BA%A7n-m%E1%BB%81m-erp-sao-cho-hi%E1%BB%87u-qu%E1%BA%A3/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-01-ch%E1%BB%8Dn-mua-ph%E1%BA%A7n-m%E1%BB%81m-erp-sao-cho-hi%E1%BB%87u-qu%E1%BA%A3/</guid>
+      <description>Không chỉ ở Việt Nam mà ở nhiều quốc gia khác, các doanh nghiệp vẫn rất băn khoăn, khó lựa chọn mua phần mềm ERP nào cho phù hợp với mô hình và túi tiền của mình.</description>
+    </item>
+    
+    <item>
+      <title>Order Fulfillment – Dịch vụ hoàn tất đơn hàng là gì?</title>
+      <link>/blog/2019-12-order-fulfillment-d%E1%BB%8Bch-v%E1%BB%A5-ho%C3%A0n-t%E1%BA%A5t-%C4%91%C6%A1n-h%C3%A0ng-l%C3%A0-g%C3%AC/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019-12-order-fulfillment-d%E1%BB%8Bch-v%E1%BB%A5-ho%C3%A0n-t%E1%BA%A5t-%C4%91%C6%A1n-h%C3%A0ng-l%C3%A0-g%C3%AC/</guid>
+      <description>Order Fulfillment có thể hiểu đơn giản là Toàn bộ quá trình từ lúc Khách hàng đặt mua đến lúc sản phẩm được giao tới tận tay người dùng, bao gồm lấy hàng.</description>
+    </item>
+    
+    <item>
+      <title>IaaS vs PaaS vs SaaS - Những gì bạn cần biết</title>
+      <link>/blog/2019-11-iaas-vs-paas-vs-saas-nh%E1%BB%AFng-g%C3%AC-b%E1%BA%A1n-c%E1%BA%A7n-bi%E1%BA%BFt/</link>
+      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019-11-iaas-vs-paas-vs-saas-nh%E1%BB%AFng-g%C3%AC-b%E1%BA%A1n-c%E1%BA%A7n-bi%E1%BA%BFt/</guid>
+      <description>Nếu bạn đang xem xét, di chuyển doanh nghiệp của mình lên đám mây, thì đây là 3 từ viết tắt quan trọng bạn cần xem xét:</description>
+    </item>
+    
+    <item>
+      <title>OKR là gì? Từ A-Z khái niệm về OKR</title>
+      <link>/blog/2019-11-okr-l%C3%A0-g%C3%AC-t%E1%BB%AB-a-z-kh%C3%A1i-ni%E1%BB%87m-v%E1%BB%81-okr/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019-11-okr-l%C3%A0-g%C3%AC-t%E1%BB%AB-a-z-kh%C3%A1i-ni%E1%BB%87m-v%E1%BB%81-okr/</guid>
+      <description>OKR là gì? OKR (Objectives and Key Results) là một phương thức Quản lý theo mục tiêu, được áp dụng lần đầu tiên tại Intel vào cuối năm 1970, hiện OKR đang được áp dụng tại nhiều công ty công nghệ hàng đầu thế giới như: Google, Zynga, Twitter, LinkedIn.</description>
+    </item>
+    
+    <item>
+      <title>KPI - thước đo đánh giá hiệu quả làm việc của nhân viên</title>
+      <link>/blog/2019-11-kpi-th%C6%B0%E1%BB%9Bc-%C4%91o-%C4%91%C3%A1nh-gi%C3%A1-hi%E1%BB%87u-qu%E1%BA%A3-l%C3%A0m-vi%E1%BB%87c-c%E1%BB%A7a-nh%C3%A2n-vi%C3%AAn/</link>
+      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019-11-kpi-th%C6%B0%E1%BB%9Bc-%C4%91o-%C4%91%C3%A1nh-gi%C3%A1-hi%E1%BB%87u-qu%E1%BA%A3-l%C3%A0m-vi%E1%BB%87c-c%E1%BB%A7a-nh%C3%A2n-vi%C3%AAn/</guid>
+      <description>KPI là gì? KPI là từ viết tắt của Key Perforamance Indicator được hiểu là công cụ đo lường, đánh giá hiệu quả công việc thông qua các chỉ số, số liệu, nhằm đánh giá được hiệu quả công việc của một nhóm/ tổ chức/cá nhân.</description>
+    </item>
+    
+    <item>
+      <title>Thông báo thay đổi địa chỉ giao dịch</title>
+      <link>/blog/2019-09-th%C3%B4ng-b%C3%A1o-thay-%C4%91%E1%BB%95i-%C4%91%E1%BB%8Ba-ch%E1%BB%89-giao-d%E1%BB%8Bch/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019-09-th%C3%B4ng-b%C3%A1o-thay-%C4%91%E1%BB%95i-%C4%91%E1%BB%8Ba-ch%E1%BB%89-giao-d%E1%BB%8Bch/</guid>
+      <description>THÔNG BÁO
+(v/v Thay đổi địa chỉ giao dịch)
+Kính gửi: QUÝ KHÁCH HÀNG và ĐỐI TÁC
+Công ty Cổ Phần Phần Giải pháp Công nghệ ZEN xin trân trọng gửi tới Quý Khách hàng và Đối tác thông báo về việc thay đổi địa chỉ giao dịch, cụ thể như sau:</description>
+    </item>
+    
+    <item>
+      <title>ZENTECH tham gia tài trợ giải tennis TPLand mở rộng</title>
+      <link>/blog/2019-08-zentech-tham-gia-t%C3%A0i-tr%E1%BB%A3-gi%E1%BA%A3i-tennis-tpland-m%E1%BB%9F-r%E1%BB%99ng/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019-08-zentech-tham-gia-t%C3%A0i-tr%E1%BB%A3-gi%E1%BA%A3i-tennis-tpland-m%E1%BB%9F-r%E1%BB%99ng/</guid>
+      <description>Nhằm tạo môi trường và cơ hội giao lưu giữa các doanh nghiệp trên địa bàn TPHCM. Sáng ngày 25/08/2019, giải quần vợt cúp TPland mở rộng đã chính thức khởi tranh tại sân Tennis KDC Trung Sơn, Quận Bình Chánh, TP.</description>
+    </item>
+    
+    <item>
+      <title>Phần mềm quản trị nhân sự hỗ trợ đánh giá hiệu quả nhân viên chính xác hơn</title>
+      <link>/blog/2019-05-ph%E1%BA%A7n-m%E1%BB%81m-qu%E1%BA%A3n-tr%E1%BB%8B-nh%C3%A2n-s%E1%BB%B1-h%E1%BB%97-tr%E1%BB%A3-%C4%91%C3%A1nh-gi%C3%A1-hi%E1%BB%87u-qu%E1%BA%A3-nh%C3%A2n-vi%C3%AAn-ch%C3%ADnh-x%C3%A1c-h%C6%A1n/</link>
+      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019-05-ph%E1%BA%A7n-m%E1%BB%81m-qu%E1%BA%A3n-tr%E1%BB%8B-nh%C3%A2n-s%E1%BB%B1-h%E1%BB%97-tr%E1%BB%A3-%C4%91%C3%A1nh-gi%C3%A1-hi%E1%BB%87u-qu%E1%BA%A3-nh%C3%A2n-vi%C3%AAn-ch%C3%ADnh-x%C3%A1c-h%C6%A1n/</guid>
+      <description>Quản lý nhân sự là một quá trình từ thiết lập mục tiêu – tổ chức – giám sát – đánh giá và điều chỉnh.</description>
+    </item>
+    
+    <item>
+      <title>Giải quyết 4 khó khăn của HR với Phần mềm quản trị nhân sự</title>
+      <link>/blog/2019-05-gi%E1%BA%A3i-quy%E1%BA%BFt-4-kh%C3%B3-kh%C4%83n-c%E1%BB%A7a-hr-v%E1%BB%9Bi-ph%E1%BA%A7n-m%E1%BB%81m-qu%E1%BA%A3n-tr%E1%BB%8B-nh%C3%A2n-s%E1%BB%B1/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019-05-gi%E1%BA%A3i-quy%E1%BA%BFt-4-kh%C3%B3-kh%C4%83n-c%E1%BB%A7a-hr-v%E1%BB%9Bi-ph%E1%BA%A7n-m%E1%BB%81m-qu%E1%BA%A3n-tr%E1%BB%8B-nh%C3%A2n-s%E1%BB%B1/</guid>
+      <description>Hầu hết các tổ chức, bất kể quy mô hoặc ngành công nghiệp, sẽ được hưởng lợi từ việc có một đội ngũ nhân sự quản lý và duy trì sự thịnh vượng của Doanh nghiệp.</description>
+    </item>
+    
+    <item>
+      <title>Thông báo lịch nghỉ lễ Giỗ tổ Hùng Vương 2019</title>
+      <link>/blog/2019-04-th%C3%B4ng-b%C3%A1o-l%E1%BB%8Bch-ngh%E1%BB%89-l%E1%BB%85-gi%E1%BB%97-t%E1%BB%95-h%C3%B9ng-v%C6%B0%C6%A1ng-2019/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019-04-th%C3%B4ng-b%C3%A1o-l%E1%BB%8Bch-ngh%E1%BB%89-l%E1%BB%85-gi%E1%BB%97-t%E1%BB%95-h%C3%B9ng-v%C6%B0%C6%A1ng-2019/</guid>
+      <description>Kính gửi: Quý khách hàng và đối tác
+Công ty Cổ phần Giải pháp Công nghệ ZEN xin chân thành cảm ơn Quý khách hàng và đối tác đã dành sự tin tưởng, lựa chọn sản phẩm phần mềm – dịch vụ của chúng tôi trong thời gian qua.</description>
     </item>
     
     <item>
@@ -48,66 +215,39 @@
     </item>
     
     <item>
+      <title>Giới thiệu</title>
+      <link>/about-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about-us/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liên hệ tư vấn và hợp tác</title>
+      <link>/contact-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact-us/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Thông tin tuyển dụng</title>
       <link>/careers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/careers/</guid>
+      <description>Tham gia cùng đội ngũ ZENer Đến với ZEN, bạn có cơ hội thể hiện năng lực, phát huy sáng tạo.</description>
+    </item>
+    
+    <item>
+      <title>Zen Web</title>
+      <link>/solutions/dich-vu-web-nhanh-saas-zen-web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/solutions/dich-vu-web-nhanh-saas-zen-web/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Zen BOS</title>
-      <link>/zen-bos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/zen-bos/</guid>
-      <description>Giới thiệu chung  ZenBOS - Operating System for Business là hệ thống phần mềm điều hành doanh nghiệp, bao gồm các phân hệ lõi để xử lý và theo dõi các hoạt động diễn ra hàng ngày tại doanh nghiệp.</description>
-    </item>
-    
-    <item>
-      <title>Zen ERP</title>
-      <link>/zen-erp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/zen-erp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zen Flow</title>
-      <link>/zen-flow/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/zen-flow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zen Inventory</title>
-      <link>/zen-inventory/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/zen-inventory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zen mFMS</title>
-      <link>/zen-fms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/zen-fms/</guid>
-      <description>Giới thiệu chung  ZEN mFMS là giải pháp phần mềm chuyên sâu cho tài chính vi mô, tài chính tiêu dùng.</description>
-    </item>
-    
-    <item>
-      <title>Zen WMS</title>
-      <link>/zen-wms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/zen-wms/</guid>
-      <description>type = &amp;ldquo;product&amp;rdquo; layout = &amp;ldquo;productlayout&amp;rdquo;</description>
     </item>
     
   </channel>

@@ -3,11 +3,107 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about-us/</loc>
+    <loc>/solutions/dieu-hanh-doanh-nghiep-online-zen-bos/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/solutions/dieu-hanh-doanh-nghiep-online-zen-bos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/solutions/dieu-hanh-doanh-nghiep-online-zen-bos/"
+                />
+  </url>
+  
+  <url>
+    <loc>/solutions/phan-mem-quan-ly-kho-saas-zen-inventory/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/solutions/phan-mem-quan-ly-kho-saas-zen-inventory/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/solutions/phan-mem-quan-ly-kho-saas-zen-inventory/"
+                />
+  </url>
+  
+  <url>
+    <loc>/solutions/quan-tri-doanh-nghiep-zen-erp/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/solutions/quan-tri-doanh-nghiep-zen-erp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/solutions/quan-tri-doanh-nghiep-zen-erp/"
+                />
+  </url>
+  
+  <url>
+    <loc>/solutions/phan-mem-quan-ly-kho-zen-wms/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/solutions/phan-mem-quan-ly-kho-zen-wms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/solutions/phan-mem-quan-ly-kho-zen-wms/"
+                />
+  </url>
+  
+  <url>
+    <loc>/solutions/quan-ly-ban-hang-zen-flow/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/solutions/quan-ly-ban-hang-zen-flow/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/solutions/quan-ly-ban-hang-zen-flow/"
+                />
+  </url>
+  
+  <url>
+    <loc>/solutions/quan-ly-tai-chinh-vi-mo-zen-mfms/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/solutions/quan-ly-tai-chinh-vi-mo-zen-mfms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/solutions/quan-ly-tai-chinh-vi-mo-zen-mfms/"
+                />
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2020-02-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/blog/"
+                />
   </url>
   
   <url>
     <loc>/categories/</loc>
+    <lastmod>2020-02-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -21,19 +117,18 @@
   </url>
   
   <url>
-    <loc>/contact-us/</loc>
+    <loc>/blog/2020-02-c%C3%A1c-c%C3%B4ng-ngh%E1%BB%87-s%E1%BA%A3n-xu%E1%BA%A5t-th%C3%B4ng-minh-m%E1%BB%9Bi-nh%E1%BA%A5t-n%C4%83m-2020/</loc>
+    <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/customers/</loc>
-  </url>
-  
-  <url>
-    <loc>/services/</loc>
+    <loc>/categories/c%C3%B4ng-ngh%E1%BB%87/</loc>
+    <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2020-02-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -43,6 +138,156 @@
                 rel="alternate"
                 hreflang="vi"
                 href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/categories/qu%E1%BA%A3n-tr%E1%BB%8B/</loc>
+    <lastmod>2020-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2020-02-6-l%E1%BB%A3i-%C3%ADch-l%E1%BB%9Bn-nh%E1%BA%A5t-c%E1%BB%A7a-ph%E1%BA%A7n-m%E1%BB%81m-crm/</loc>
+    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2020-02-v%C3%AC-sao-ph%E1%BA%A7n-m%E1%BB%81m-k%E1%BA%BF-to%C3%A1n-vi%E1%BB%87t-nam-chi%E1%BA%BFm-%C6%B0u-th%E1%BA%BF-c%E1%BA%A1nh-tranh/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2020-01-th%E1%BB%91ng-k%C3%AA-s%E1%BA%A3n-xu%E1%BA%A5t-realtime-v%E1%BB%9Bi-ph%E1%BA%A7n-m%E1%BB%81m/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2020-01-ch%E1%BB%8Dn-mua-ph%E1%BA%A7n-m%E1%BB%81m-erp-sao-cho-hi%E1%BB%87u-qu%E1%BA%A3/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/s%E1%BA%A3n-ph%E1%BA%A9m/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-12-order-fulfillment-d%E1%BB%8Bch-v%E1%BB%A5-ho%C3%A0n-t%E1%BA%A5t-%C4%91%C6%A1n-h%C3%A0ng-l%C3%A0-g%C3%AC/</loc>
+    <lastmod>2019-12-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-11-iaas-vs-paas-vs-saas-nh%E1%BB%AFng-g%C3%AC-b%E1%BA%A1n-c%E1%BA%A7n-bi%E1%BA%BFt/</loc>
+    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-11-okr-l%C3%A0-g%C3%AC-t%E1%BB%AB-a-z-kh%C3%A1i-ni%E1%BB%87m-v%E1%BB%81-okr/</loc>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-11-kpi-th%C6%B0%E1%BB%9Bc-%C4%91o-%C4%91%C3%A1nh-gi%C3%A1-hi%E1%BB%87u-qu%E1%BA%A3-l%C3%A0m-vi%E1%BB%87c-c%E1%BB%A7a-nh%C3%A2n-vi%C3%AAn/</loc>
+    <lastmod>2019-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-09-th%C3%B4ng-b%C3%A1o-thay-%C4%91%E1%BB%95i-%C4%91%E1%BB%8Ba-ch%E1%BB%89-giao-d%E1%BB%8Bch/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/tin-ho%E1%BA%A1t-%C4%91%E1%BB%99ng/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-08-zentech-tham-gia-t%C3%A0i-tr%E1%BB%A3-gi%E1%BA%A3i-tennis-tpland-m%E1%BB%9F-r%E1%BB%99ng/</loc>
+    <lastmod>2019-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-05-ph%E1%BA%A7n-m%E1%BB%81m-qu%E1%BA%A3n-tr%E1%BB%8B-nh%C3%A2n-s%E1%BB%B1-h%E1%BB%97-tr%E1%BB%A3-%C4%91%C3%A1nh-gi%C3%A1-hi%E1%BB%87u-qu%E1%BA%A3-nh%C3%A2n-vi%C3%AAn-ch%C3%ADnh-x%C3%A1c-h%C6%A1n/</loc>
+    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-05-gi%E1%BA%A3i-quy%E1%BA%BFt-4-kh%C3%B3-kh%C4%83n-c%E1%BB%A7a-hr-v%E1%BB%9Bi-ph%E1%BA%A7n-m%E1%BB%81m-qu%E1%BA%A3n-tr%E1%BB%8B-nh%C3%A2n-s%E1%BB%B1/</loc>
+    <lastmod>2019-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019-04-th%C3%B4ng-b%C3%A1o-l%E1%BB%8Bch-ngh%E1%BB%89-l%E1%BB%85-gi%E1%BB%97-t%E1%BB%95-h%C3%B9ng-v%C6%B0%C6%A1ng-2019/</loc>
+    <lastmod>2019-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/customers/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/customers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/customers/"
+                />
+  </url>
+  
+  <url>
+    <loc>/services/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/services/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/services/"
+                />
+  </url>
+  
+  <url>
+    <loc>/about-us/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/about-us/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/about-us/"
+                />
+  </url>
+  
+  <url>
+    <loc>/contact-us/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/contact-us/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/contact-us/"
+                />
+  </url>
+  
+  <url>
+    <loc>/solution/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/solution/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/solution/"
                 />
   </url>
   
@@ -62,30 +307,30 @@
   
   <url>
     <loc>/careers/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/careers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/careers/"
+                />
   </url>
   
   <url>
-    <loc>/zen-bos/</loc>
-  </url>
-  
-  <url>
-    <loc>/zen-erp/</loc>
-  </url>
-  
-  <url>
-    <loc>/zen-flow/</loc>
-  </url>
-  
-  <url>
-    <loc>/zen-inventory/</loc>
-  </url>
-  
-  <url>
-    <loc>/zen-fms/</loc>
-  </url>
-  
-  <url>
-    <loc>/zen-wms/</loc>
+    <loc>/solutions/dich-vu-web-nhanh-saas-zen-web/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/solutions/dich-vu-web-nhanh-saas-zen-web/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="/solutions/dich-vu-web-nhanh-saas-zen-web/"
+                />
   </url>
   
 </urlset>
